@@ -1,0 +1,4 @@
+main: xyz.tangledwires.PowerItemsAddon.App
+name: PowerItemsAddon
+version: 1.0
+depend: [PowerItems]
